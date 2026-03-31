@@ -17,7 +17,7 @@ Unity ve C# kullanarak geliştirdiğim 2 seviyeli 2D platform oyunudur. Oyuncu 1
 - Nesne Yönelimli Programlama (OOP)
 
 ## Kurulum
-1. GitHub’dan projeyi indirin:
+GitHub’dan projeyi indirin:
 ```bash
 git clone [GitHub linki]
 Unity Hub ile açın
