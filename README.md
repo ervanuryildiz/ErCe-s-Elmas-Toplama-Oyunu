@@ -20,3 +20,6 @@ Unity ve C# kullanarak geliştirdiğim 2 seviyeli 2D platform oyunudur. Oyuncu 1
 1. GitHub’dan projeyi indirin:
 ```bash
 git clone [GitHub linki]
+Unity Hub ile açın
+Oyunu çalıştırmak için MainScene sahnesini açın
+Oynayın ve deneyimleyin
